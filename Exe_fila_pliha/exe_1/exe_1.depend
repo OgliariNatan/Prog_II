@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475777150 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\exe_fila_pliha\exe_1\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1475775799 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\exe_fila_pliha\exe_1\pilha.h
+
+1475777029 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\exe_fila_pliha\exe_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

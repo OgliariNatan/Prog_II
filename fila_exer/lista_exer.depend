@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1475259686 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\lista_exer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1475234294 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\lista_exer\fila.h
+
+1475260868 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\lista_exer\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1475497122 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\fila_exer\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1475496078 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\fila_exer\fila.h
+
+1475497026 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\fila_exer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

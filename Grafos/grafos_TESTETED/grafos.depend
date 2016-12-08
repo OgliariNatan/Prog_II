@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1468183843 source:c:\users\casa\documents\gustavo\prg ii\grafos\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"vertice.h"
+
+1468182334 c:\users\casa\documents\gustavo\prg ii\grafos\lista_enc.h
+	"no.h"
+
+1468181897 c:\users\casa\documents\gustavo\prg ii\grafos\no.h
+
+1468184588 c:\users\casa\documents\gustavo\prg ii\grafos\grafo.h
+	"no.h"
+
+1468182334 source:c:\users\casa\documents\gustavo\prg ii\grafos\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"no.h"
+
+1468183255 source:c:\users\casa\documents\gustavo\prg ii\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+	"vertice.h"
+	"grafo.h"
+
+1468181897 source:c:\users\casa\documents\gustavo\prg ii\grafos\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1468185702 c:\users\casa\documents\gustavo\prg ii\grafos\vertice.h
+
+1468185702 source:c:\users\casa\documents\gustavo\prg ii\grafos\vertice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"vertice.h"
+
+1468233152 source:c:\users\aluno\desktop\grafos\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"no.h"
+
+1468235810 c:\users\aluno\desktop\grafos\lista_enc.h
+	"no.h"
+
+1468236696 c:\users\aluno\desktop\grafos\no.h
+
+1468239343 c:\users\aluno\desktop\grafos\grafo.h
+	"no.h"
+
+1468233151 source:c:\users\aluno\desktop\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+	"vertice.h"
+	"grafo.h"
+
+1468239343 c:\users\aluno\desktop\grafos\vertice.h
+
+1468238817 source:c:\users\aluno\desktop\grafos\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1468238808 c:\users\aluno\desktop\grafos\fila.h
+
+1468344691 source:c:\users\casa\documents\gustavo\g\grafos\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1468342462 c:\users\casa\documents\gustavo\g\grafos\fila.h
+
+1468345744 source:c:\users\casa\documents\gustavo\g\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+	"vertice.h"
+	"grafo.h"
+	"fila.h"
+
+1468270593 c:\users\casa\documents\gustavo\g\grafos\lista_enc.h
+	"no.h"
+
+1468236698 c:\users\casa\documents\gustavo\g\grafos\no.h
+
+1468334206 c:\users\casa\documents\gustavo\g\grafos\vertice.h
+
+1468335759 c:\users\casa\documents\gustavo\g\grafos\grafo.h
+	"no.h"
+	"vertice.h"
+
+1468278495 source:c:\users\casa\documents\gustavo\g\grafos\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"no.h"
+
+1468237358 source:c:\users\casa\documents\gustavo\g\grafos\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1468344680 source:c:\users\casa\documents\gustavo\g\grafos\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"vertice.h"
+	"fila.h"
+	"no.h"
+
+1468334206 source:c:\users\casa\documents\gustavo\g\grafos\vertice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"vertice.h"
+	"no.h"
+
+1468344692 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1468342464 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\fila.h
+
+1480010480 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"vertice.h"
+	"fila.h"
+	"no.h"
+
+1468270594 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\lista_enc.h
+	"no.h"
+
+1468236698 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\no.h
+
+1468335760 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\grafo.h
+	"no.h"
+	"vertice.h"
+
+1468334208 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\vertice.h
+
+1468278496 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"grafo.h"
+	"no.h"
+
+1468237358 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1468334208 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\vertice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"vertice.h"
+	"no.h"
+
+1480010057 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafos_testeted\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+	"vertice.h"
+	"grafo.h"
+	"fila.h"
+

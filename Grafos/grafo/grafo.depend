@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1480331779 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafo\grafo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"grafo.h"
+	"no.h"
+
+1480359211 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafo\grafo.h
+
+1480359231 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	"no.h"
+
+1468236698 c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafo\no.h
+
+1468237358 source:c:\users\cliente\documents\(engenhariaeletrônica)\(fase_5)\programação_de_computadores_ii\grafos\grafo\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
