@@ -1,0 +1,20 @@
+no_t * no = kjknki;
+
+vertice_t * v = obter_dado(no)
+
+lista_enc_t * vizinhos = obter_viz(v)
+
+no_t * no_v = obter_cabeça(vizinhos)
+
+while (no_v){
+
+	aresta_t * arEsta = obter_dado(no_v)
+	
+	vertice_t * dest = obter_destio(aresta)
+
+....
+....
+
+	no_v = obter_proox(no_v)
+
+}

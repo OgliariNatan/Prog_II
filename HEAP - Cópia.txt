@@ -1,0 +1,33 @@
+void
+
+int vetor[] = {4,5,65,7,78,};
+
+heap_t *heap = cria_heap(10);
+
+
+end void
+
+build_heap(heap_t *heap)
+if(heap == NULL)
+
+
+...
+
+END build_heap
+
+swap(int *vetor, int a, int b)
+
+int temp;
+
+temp = vetor[a];
+
+....
+
+END swap
+
+
+
+
+
+
+
