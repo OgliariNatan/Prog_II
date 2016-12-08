@@ -1,2 +1,0 @@
-grafo -> lista -> no -> vertices -> lista -> no -> arestas -> fonte	
-							   -> destino
