@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1480445577 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/arvore/arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"vertice.h"
+	"arvore.h"
+
+1480417698 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/arvore/vertice.h
+	"../lista_enc/lista_enc.h"
+
+1480357182 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/lista_enc/lista_enc.h
+	"no.h"
+
+1467931107 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/lista_enc/no.h
+
+1480418394 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/arvore/arvore.h
+	"vertice.h"
+
+1480417692 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/arvore/vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"../lista_enc/lista_enc.h"
+
+1480357134 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/fila/fila.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"fila.h"
+
+1480357144 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/fila/fila.h
+
+1480357229 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/lista_enc/lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1467931106 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/lista_enc/no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1480542713 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore/arvore.h"
+	"arvore/huffman.h"
+
+1480421868 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/arvore/huffman.h
+
+1469464566 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/pilha/pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"pilha.h"
+
+1467834076 /home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/pilha/pilha.h
+
+1480542655 source:/home/xtarke/Dropbox/ifsc/disciplinas/2016-2/PRG22105/prova/prova-02c-codigo/huffman_clean/prova-02/arvore/huffman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+	"vertice.h"
+	"../fila/fila.h"
+	"../pilha/pilha.h"
+
+1480445577 source:c:\users\aluno\desktop\prova-02\arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"vertice.h"
+	"arvore.h"
+
+1480417698 c:\users\aluno\desktop\prova-02\arvore\vertice.h
+	"../lista_enc/lista_enc.h"
+
+1480357182 c:\users\aluno\desktop\prova-02\lista_enc\lista_enc.h
+	"no.h"
+
+1467934707 c:\users\aluno\desktop\prova-02\lista_enc\no.h
+
+1480418394 c:\users\aluno\desktop\prova-02\arvore\arvore.h
+	"vertice.h"
+
+1480417692 source:c:\users\aluno\desktop\prova-02\arvore\vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"../lista_enc/lista_enc.h"
+
+1480357134 source:c:\users\aluno\desktop\prova-02\fila\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"fila.h"
+
+1480357144 c:\users\aluno\desktop\prova-02\fila\fila.h
+
+1480357229 source:c:\users\aluno\desktop\prova-02\lista_enc\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1467934706 source:c:\users\aluno\desktop\prova-02\lista_enc\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1480672340 source:c:\users\aluno\desktop\prova-02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore/arvore.h"
+	"arvore/huffman.h"
+
+1480421868 c:\users\aluno\desktop\prova-02\arvore\huffman.h
+
+1469468166 source:c:\users\aluno\desktop\prova-02\pilha\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"pilha.h"
+
+1467837676 c:\users\aluno\desktop\prova-02\pilha\pilha.h
+
+1480676737 source:c:\users\aluno\desktop\prova-02\arvore\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+	"vertice.h"
+	"../fila/fila.h"
+	"../pilha/pilha.h"
+
+1480445577 source:f:\natan_ogliari\natan_ogliari\arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"vertice.h"
+	"arvore.h"
+
+1480417698 f:\natan_ogliari\natan_ogliari\arvore\vertice.h
+	"../lista_enc/lista_enc.h"
+
+1480357182 f:\natan_ogliari\natan_ogliari\lista_enc\lista_enc.h
+	"no.h"
+
+1467934707 f:\natan_ogliari\natan_ogliari\lista_enc\no.h
+
+1480418394 f:\natan_ogliari\natan_ogliari\arvore\arvore.h
+	"vertice.h"
+
+1480417692 source:f:\natan_ogliari\natan_ogliari\arvore\vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"../lista_enc/lista_enc.h"
+
+1480357134 source:f:\natan_ogliari\natan_ogliari\fila\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"fila.h"
+
+1480357144 f:\natan_ogliari\natan_ogliari\fila\fila.h
+
+1480357229 source:f:\natan_ogliari\natan_ogliari\lista_enc\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1467934706 source:f:\natan_ogliari\natan_ogliari\lista_enc\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1480672340 source:f:\natan_ogliari\natan_ogliari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore/arvore.h"
+	"arvore/huffman.h"
+
+1480421868 f:\natan_ogliari\natan_ogliari\arvore\huffman.h
+
+1469468166 source:f:\natan_ogliari\natan_ogliari\pilha\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"pilha.h"
+
+1467837676 f:\natan_ogliari\natan_ogliari\pilha\pilha.h
+
+1480705389 source:f:\natan_ogliari\natan_ogliari\arvore\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+	"vertice.h"
+	"../fila/fila.h"
+	"../pilha/pilha.h"
+
